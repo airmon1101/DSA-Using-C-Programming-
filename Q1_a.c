@@ -39,3 +39,11 @@ int main() {
 
     return 0;
 }
+
+// OutPut
+
+// Enter the number of elements: 5
+// Enter the elements: 1 5 9 4 6
+// Enter the position of the element: 2
+// Enter the element to insert: 0
+// Final array after insertion: 1 0 5 9 4 6
